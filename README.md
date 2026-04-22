@@ -69,7 +69,7 @@ Task Management API adalah REST API berbasis ASP.NET Core yang digunakan untuk m
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/TaskManagementAPI.git
+https://github.com/Veynasti/Sistem-manajemen-tugas.git
 ```
 
 ### 2. Buka Project
